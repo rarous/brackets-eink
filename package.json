@@ -1,0 +1,14 @@
+{
+	"name": "brackets-eink",
+	"title": "eink",
+	"description": "Light, minimal theme.",
+	"homepage": "https://github.com/rarous/brackets-eink",
+	"version": "0.0.1",
+	"author": "Aleš Roubíček rarous@gmail.com",
+	"license": "MIT",
+	"theme": {
+		"file": "theme.less",
+		"dark": false
+	},
+	"keywords": ["theme", "light", "gray", "minimal"]
+}
